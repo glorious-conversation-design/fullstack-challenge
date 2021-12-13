@@ -18,7 +18,7 @@ Below you will find a list of what we expect you to deliver at the end of this c
 
 - A **working database** of choice, you can setup one locally and provide us with **instructions** to set it up ourselfs, including a simple way for **getting the data in the database**
 
-  The JSON you will find in `path/to/json.json` should be added to this database, as well as the possibility to save answers from user input
+  The JSON you will find in `./assets/data/questions.json` should be added to this database, as well as the possibility to save answers from user input
 
 
 - A **working frontend**, you can use the design from the `design.mov` video. You can use [Vue.js](https://vuejs.org/) *(a pre, we work a lot with it)* for the frontend, or do it all vanilla
